@@ -5,9 +5,9 @@ In this simulation project, I am a backend developer for a startup company, sett
 
 - Use common middleware packages<br />
 - Receive requests through routes<br />
-- Accessing relevant information through route parameters<br />
-- Building an API following RESTful design principles<br />
-- Writing custom middleware functions
+- Access relevant information through route parameters<br />
+- Build an API following RESTful design principles<br />
+- Write custom middleware functions
 
 
 <br />
